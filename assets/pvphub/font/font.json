@@ -1,0 +1,12 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "pvphub:chars/pixel.png",
+      "ascent": 1,
+      "chars": [
+        "a"
+      ]
+    }
+  ]
+}
