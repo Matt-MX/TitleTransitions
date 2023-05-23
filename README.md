@@ -14,4 +14,6 @@ For example to see a left to right transition:
 
 Would love to see what people can make with this idea, my knowledge of GLSL is pretty limited so I was only able to make some basic ones!
 
+**Note** Any title with color green/blue as `2301` will likely not render correctly! Be sure to change the color in the shader files if needed.
+
 ## Please give credit for usage.
